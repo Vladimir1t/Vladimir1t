@@ -1,8 +1,8 @@
 ### Hello!
-
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=C/C++%Developer+%7Internet%Network%Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
 </div>
+
 
 ## My [*CV*](https://github.com/Vladimir1t/CV/blob/main/CV_VekhovVV.pdf)
 
