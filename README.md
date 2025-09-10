@@ -1,13 +1,10 @@
 # Привет! 👋 Меня зовут Владимир
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=С/С\+\++Developer+%7C+Network+soft+engineer)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=С/С\+\++Developer+%7C+Network+soft+engineer)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2CF5A7&width=750&lines=C/C+++Developer+%257C+Network+Software+Engineer))
 
 </div>
 
 ## 📄 Мое [**Резюме**](https://github.com/Vladimir1t/CV/blob/main/CV_VekhovVV.pdf)
-
 ---
 
 ## 🛠️ Технологии и навыки
@@ -27,8 +24,7 @@
 ## 📈 Статистика GitHub
 
 <div align="center">
-  
-![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir1t&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir1t&layout=compact&theme=radical)
 
 </div>
@@ -38,12 +34,3 @@
 ## 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_spb_v)
-
-
----
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Vladimir1t&color=blueviolet)
-
-</div>
