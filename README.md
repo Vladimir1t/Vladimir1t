@@ -1,6 +1,6 @@
 # Привет! 👋 Меня зовут Владимир
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=2CF5A7&width=750&lines=C/C%252B%252B+Developer+%257C+Network+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=C/C%252B%252B+Developer+%257C+Network+Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
